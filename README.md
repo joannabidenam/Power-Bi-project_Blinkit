@@ -3,7 +3,8 @@
 
 # Project Overview
 
-### This Power BI project focuses on analyzing the Blinkit dataset to extract meaningful business insights through structured data preparation and visualization. Working on this dataset helped me strengthen my analytics skills while diving deeper into Power BI’s capabilities. From handling missing values to building interactive dashboards, this project transforms raw data into insights that support better understanding of sales trends, outlet performance, and product movement.
+### This Power BI project focuses on analyzing the Blinkit dataset to extract meaningful business insights through structured data preparation and visualization. Working on this dataset helped me strengthen my analytics skills while diving deeper into Power BI’s capabilities. From handling missing values to building interactive dashboards, this project transforms raw data into insights that support better understanding of sales trends, outlet performance, and product movement. 
+Data source Kggle: https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset
 
 # Tasks Accomplished
 
