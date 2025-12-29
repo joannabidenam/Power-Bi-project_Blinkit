@@ -33,4 +33,4 @@
   * Sales performance trends
   * Outlet performance by location, type, and size
   * Customer demand patterns and product movement
-  <!-- Uploading "blinkit training project.mp4"... -->
+  https://github.com/joannabidenam/Power-Bi-project_Blinkit/issues/3#issue-3766810448
