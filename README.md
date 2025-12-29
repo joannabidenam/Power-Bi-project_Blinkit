@@ -13,6 +13,7 @@
 * Handled missing values using techniques such as median replacement and logic-based DAX (IF, SWITCH)
 * Structured the dataset by refining rows/columns and removing irrelevant fields
 * Established relationships to create a reliable and dynamic data model
+##### ![Image](https://github.com/user-attachments/assets/f78584ae-bd65-4227-9251-6738fab8d0a1)
 
 ### Calculations & KPIs
 
