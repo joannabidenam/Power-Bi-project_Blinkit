@@ -34,4 +34,5 @@
   * Outlet performance by location, type, and size
   * Customer demand patterns and product movement
 
-## https://github.com/user-attachments/assets/ca750f39-e832-4536-805c-7fae8fe3d546
+https://github.com/user-attachments/assets/ca750f39-e832-4536-805c-7fae8fe3d546 
+
