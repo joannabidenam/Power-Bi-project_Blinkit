@@ -33,3 +33,4 @@
   * Sales performance trends
   * Outlet performance by location, type, and size
   * Customer demand patterns and product movement
+  <!-- Uploading "blinkit training project.mp4"... -->
